@@ -1,5 +1,5 @@
 
-
+---
 
 # 📘 THEORY 
 
@@ -21,6 +21,6 @@ A value passed inside URL.
 Example:
 
 
-## Run Project
+## ▶️ Run Project
 ```bash
 uvicorn main:app --reload
